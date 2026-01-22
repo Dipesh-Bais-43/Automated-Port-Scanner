@@ -26,5 +26,5 @@ Ek powerful aur fast **Python-based Port Scanner** jo Graphical User Interface (
 
 ### 1. Repository ko clone karein:
 ```bash
-git clone 
+git clone [https://github.com/Dipesh-Bais-43/Automated-Port-Scanner]
 cd automated-port-scanner
