@@ -1,6 +1,3 @@
-# Automated-Port-Scanner
-
-
 # 🛡️ Automated Port Scanner with PDF Reporting
 
 Ek powerful aur fast **Python-based Port Scanner** jo Graphical User Interface (GUI) ke saath aata hai. Yeh tool kisi bhi target IP ya Domain ko scan karta hai aur ant mein ek professional **PDF Audit Report** generate karta hai.
